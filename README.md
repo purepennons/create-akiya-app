@@ -26,6 +26,7 @@ my react development environment
 - [ ] redux-observable
 - [ ] react-router-v4
 - [ ] recompose
+- [ ] apollo
 
 ### test
 - [ ] jest
