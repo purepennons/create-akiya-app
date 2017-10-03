@@ -17,8 +17,6 @@ my react development environment
 - [ ] webpack dashboard
 - [ ] uglify/minify
 
-
-
 ### js
 - [ ] styled-component
 - [ ] react
@@ -31,6 +29,7 @@ my react development environment
 
 ### test
 - [ ] jest
+- [ ] nightwatch
 
 ### ci/cd
 - [ ] drone ci or circle ci
