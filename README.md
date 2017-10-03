@@ -30,6 +30,7 @@ my react development environment
 
 ### test
 - [ ] jest
+- [ ] nyc
 - [ ] nightwatch
 
 ### ci/cd
