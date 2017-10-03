@@ -7,6 +7,7 @@ my react development environment
 - [ ] flow
 - [ ] babel-preset-env
 - [ ] sass/scss loader
+- [ ] css module
 
 
 ### js
@@ -18,6 +19,13 @@ my react development environment
 - [ ] redux-observable
 - [ ] react-router-v4
 
+### test
+- [ ] jest
+
+### ci/cd
+- [ ] drone ci or circle ci
+- [ ] build script
+
 ### others
 - [ ] folder structure
 - [ ] styleguidist
@@ -26,3 +34,4 @@ my react development environment
 - [ ] yarn.lock
 - [ ] gitignore
 - [ ] husky
+- [ ] prettier
