@@ -15,6 +15,7 @@ my react development environment
 - [ ] extract-text-webpack-plugin
 - [ ] code splitting
 - [ ] webpack dashboard
+- [ ] uglify/minify
 
 
 
