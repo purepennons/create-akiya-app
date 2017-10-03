@@ -47,6 +47,7 @@ my react development environment
 - [x] yarn.lock
 - [x] gitignore
 - [ ] husky
+  - [x] precommit
 - [x] prettier
 
 ## Resource
