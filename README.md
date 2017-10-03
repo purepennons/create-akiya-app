@@ -2,9 +2,10 @@
 my react development environment
 
 ## Todo
-### webpack
-- [ ] create-react-app
-- [ ] flow
+### Webpack
+- [x] create-react-app
+- [x] flow
+- [x] babel-preset-flow
 - [ ] babel-preset-env
 - [ ] babel-preset-stage-2
 - [ ] sass/scss loader
@@ -16,8 +17,9 @@ my react development environment
 - [ ] code splitting
 - [ ] webpack dashboard
 - [ ] uglify/minify
+- [x] eslint-loader
 
-### js
+### JS
 - [ ] styled-component
 - [ ] react
 - [ ] redux
@@ -28,21 +30,24 @@ my react development environment
 - [ ] recompose
 - [ ] apollo
 
-### test
+### Test
 - [ ] jest
 - [ ] nyc
 - [ ] nightwatch
 
-### ci/cd
+### CI/CD
 - [ ] drone ci or circle ci
 - [ ] build script
 
-### others
+### Others
 - [ ] folder structure
 - [ ] styleguidist
-- [ ] eslint
+- [x] eslint
 - [ ] editorconfig
 - [ ] yarn.lock
 - [ ] gitignore
 - [ ] husky
 - [ ] prettier
+
+## Resource
+- [Configure ESLint, Prettier, and Flow in VS Code for React Development](https://hackernoon.com/configure-eslint-prettier-and-flow-in-vs-code-for-react-development-c9d95db07213)
