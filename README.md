@@ -7,16 +7,16 @@ my react development environment
 - [x] flow
 - [x] babel-preset-flow
 - [ ] babel-preset-env
-- [ ] babel-preset-stage-2
-- [ ] sass/scss loader
-- [ ] css module
-- [ ] postcss-flexbugs-fixes
-- [ ] autoprefixer
-- [ ] rucksack-css
-- [ ] extract-text-webpack-plugin
+- [x] babel-preset-stage-2
+- [x] sass/scss loader
+- [x] css module
+- [x] postcss-flexbugs-fixes
+- [x] autoprefixer
+- [x] rucksack-css
+- [x] extract-text-webpack-plugin
 - [ ] code splitting
 - [ ] webpack dashboard
-- [ ] uglify/minify
+- [x] uglify/minify
 - [x] eslint-loader
 
 ### JS
@@ -43,11 +43,11 @@ my react development environment
 - [ ] folder structure
 - [ ] styleguidist
 - [x] eslint
-- [ ] editorconfig
-- [ ] yarn.lock
-- [ ] gitignore
+- [x] editorconfig
+- [x] yarn.lock
+- [x] gitignore
 - [ ] husky
-- [ ] prettier
+- [x] prettier
 
 ## Resource
 - [Configure ESLint, Prettier, and Flow in VS Code for React Development](https://hackernoon.com/configure-eslint-prettier-and-flow-in-vs-code-for-react-development-c9d95db07213)
