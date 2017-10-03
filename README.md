@@ -6,8 +6,16 @@ my react development environment
 - [ ] create-react-app
 - [ ] flow
 - [ ] babel-preset-env
+- [ ] babel-preset-stage-2
 - [ ] sass/scss loader
 - [ ] css module
+- [ ] postcss-flexbugs-fixes
+- [ ] autoprefixer
+- [ ] rucksack-css
+- [ ] extract-text-webpack-plugin
+- [ ] code splitting
+- [ ] webpack dashboard
+
 
 
 ### js
@@ -18,6 +26,7 @@ my react development environment
 - [ ] redux-saga
 - [ ] redux-observable
 - [ ] react-router-v4
+- [ ] recompose
 
 ### test
 - [ ] jest
